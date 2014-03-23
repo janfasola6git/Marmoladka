@@ -22,6 +22,7 @@ namespace Marmoladka
         public MainWindow()
         {
             InitializeComponent();
+            // nowosc w masterze janfasola
         }
     }
 }
