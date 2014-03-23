@@ -11,7 +11,7 @@ using System.Windows.Media;
 using System.Windows.Media.Imaging;
 using System.Windows.Navigation;
 using System.Windows.Shapes;
-
+using Marmoladka;
 namespace Marmoladka
 {
     /// <summary>
@@ -23,5 +23,9 @@ namespace Marmoladka
         {
             InitializeComponent();
         }
+    }
+    public class kupa
+    {
+        public kupa kupa;
     }
 }
